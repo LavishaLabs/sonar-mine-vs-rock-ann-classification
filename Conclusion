@@ -1,0 +1,3 @@
+Conclusion
+
+This project demonstrates how Artificial Neural Networks can effectively solve binary classification problems involving sonar signal data. The tuned ANN model achieved improved predictive performance and highlighted the importance of preprocessing and hyperparameter tuning in deep learning.
