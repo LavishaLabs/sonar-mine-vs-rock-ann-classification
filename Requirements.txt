@@ -1,0 +1,12 @@
+
+---
+
+# requirements.txt
+
+```text id="7x2q9h"
+pandas
+numpy
+scikit-learn
+tensorflow
+keras
+jupyter
